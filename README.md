@@ -1,7 +1,7 @@
-# Academic News Aggregator
+# Scholar-360 Academic News Aggregator
 
 ## Project Overview
-The Academic News Aggregator is a full-stack web application designed to centralize academic updates from top universities worldwide.  
+Scholar-360 is a full-stack web application designed to centralize academic updates from top universities worldwide.  
 The platform collects and organizes news related to **admissions, events, conferences, research highlights, internships, and job postings**.  
 An AI-powered scraper (to be integrated later) gathers news, and an **admin** approves which stories get posted as blog entries.  
 
