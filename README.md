@@ -1,5 +1,5 @@
 # Scholar-360 Academic News Aggregator
-![home (2)](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/e8db8f17-72d6-42a0-b264-def0bf883bbf)
+![home (2)](https://github.com/AniketSarrin/Scholar-360/blob/main/Scholar-360.png)
 
 ## Project Overview
 Scholar-360 is a full-stack web application designed to centralize academic updates from top universities worldwide.  
