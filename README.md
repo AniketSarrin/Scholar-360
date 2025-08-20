@@ -3,7 +3,7 @@
 ## Project Overview
 Scholar-360 is a full-stack web application designed to centralize academic updates from top universities worldwide.  
 The platform collects and organizes news related to **admissions, events, conferences, research highlights, internships, and job postings**.  
-An AI-powered scraper (to be integrated later) gathers news, and an **admin** approves which stories get posted as blog entries.  
+ 
 
 Users can explore categorized academic updates in an easy-to-navigate interface.
 
