@@ -32,9 +32,6 @@ Users can explore categorized academic updates in an easy-to-navigate interface.
 - **Axios** – API integration
 - **TailwindCSS** – Styling
 
-### Deployment
-- Backend hosted on **Render** / **Heroku** / **AWS EC2**  
-- Frontend hosted on **Netlify** / **Vercel**  
 
 ---
 
